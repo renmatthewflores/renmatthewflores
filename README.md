@@ -4,7 +4,7 @@ Education:
 Second Year BS information Technology
 
 Certifications: 
-[SQL And Relational Databases 101](https://courses.cognitiveclass.ai/certificates/605fee1c0e444b76ba3a1172fb3c63
+[SQL And Relational Databases 101](https://courses.cognitiveclass.ai/certificates/605fee1c0e444b76ba3a1172fb3c63)
 
 Skillsets:
 Problem-solving 
